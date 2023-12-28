@@ -38,7 +38,7 @@ export default function Header() {
 
                         <li className='nav__item'>
                             <a href="#services" className='nav__link'>
-                                <i className='uil uil-breifcase-alt nav__icon'></i>
+                                <i className='uil uil-briefcase-alt nav__icon'></i>
                                 Services
                             </a>
                         </li>
@@ -51,7 +51,7 @@ export default function Header() {
                         </li>
 
                         <li className='nav__item'>
-                            <a href="#portfolio" className='nav__link'>
+                            <a href="#contact" className='nav__link'>
                                 <i className='uil uil-message nav__icon'></i>
                                 Contact
                             </a>
